@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="myapp2" version="0.1.0">
+  <name>Myapp2</name>
+  <description>
+    Some Tabris test
+  </description>
+  <author email="aryanfaghihi@gmail.com">
+    Aran
+  </author>
+</widget>
