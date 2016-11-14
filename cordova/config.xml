@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="myapp2" version="0.1.0">
-  <name>Myapp2</name>
+<widget id="my.first.build" version="1.0.0">
+  <name>My First build</name>
   <description>
     Some Tabris test
   </description>
