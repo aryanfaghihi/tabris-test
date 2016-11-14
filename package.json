@@ -1,7 +1,7 @@
 {
   "name": "myapp2",
-  "version": "0.1.0",
-  "main": "app.js",
+  "version": "1.0.0",
+  "main": "./src/app.js",
   "private": true,
   "scripts": {
     "start": "http-server -c-1 -d false"
